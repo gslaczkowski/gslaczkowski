@@ -1,0 +1,5 @@
+- 👋 Olá, sou @gslaczkowski || Gabriel Laczkowski;
+- 👀 Tenho interesse em programação e design;
+- 🌱 Atualmente estou em uma imersão de aprendizado generalista da tecnologia;
+- 💞️ Eu posso colaborar na construção de projetos web;
+- 📫 Você pode entrar em contato comigo enviando um e-mail para gslaczkowski@gmail.com;
