@@ -1,1 +1,1 @@
-Olá, sou Gabriel Laczkowski, tenho interesse em programação e design. Esta é minha conta para projetos pessoais, caso queira entrar em contato comigo profissionalmente, acesso https://gsdesenvolvedor.com.br
+Olá, sou Gabriel Laczkowski, tenho interesse em programação e design. Esta é minha conta para projetos pessoais, caso queira entrar em contato comigo profissionalmente, acesse https://gsdesenvolvedor.com.br ou envie um e-mail para gsdesenvolvedor@gmail.com.
